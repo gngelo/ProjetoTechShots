@@ -1,0 +1,3 @@
+{
+    "cadUser" = 'Cadastro de Usuário'
+}
